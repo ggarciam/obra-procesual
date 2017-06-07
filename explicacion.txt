@@ -1,0 +1,116 @@
+Obra procesual
+
+Representación gráfica de mi bagaje viajero en los últimos 10 años
+
+La siguiente obra procesual se basa en los viajes (vuelos) que he realizado en los últimos 10 años de mi vida. Partiendo de los diferentes países de origen y destino, se representan dichos viajes mediante líneas que unen los puntos de salida y llegada y las mismas líneas serán de un color resultante de la mezcla entre los colores de los dos países de origen y destino. No solamente esto, si no que las nuevas líneas se irán creando tomando como base el color de la línea del viaje anterior y mezclándolo, como se señalaba anteriormente, con los colores de los países de origen y destino.
+
+De esta manera, a partir de elementos básicos como son la localización geográfica en un mapa de los distintos países y la asignación aleatoria de un color a los mismos, se obtiene una obra final en forma de una línea que es la suma de un conjunto mayor de líneas y colores que está y seguirá en constante evolución mientras yo siga viajando.
+
+Lista de viajes:
+
+Octubre 2007 - Madrid -> Berlin - Alemania
+Enero 2008 - Berlin -> Roma - Italia
+Enero 2008 - Berlin -> Estocolmo - Suecia
+Febrero 2008 - Berlin -> Düsseldorf - Alemania
+Febrero 2008 - Berlin -> Milán - Italia
+Marzo 2008 - Berlin -> Reykjavik - Islandia
+Abril 2008 - Berlin -> Madrid - España
+Mayo 2008 - Berlin -> Moscú - Rusia
+Mayo 2008 - Berlin -> Oslo - Noruega
+Junio 2008 - Berlin -> Budapest - Hungría
+Julio 2008 - Berlin -> El Cairo - Egipto
+Agosto 2008 - Berlin -> Copenague - Dinamarca
+Agosto 2008 - Berlin -> Varsovia - Polonia
+Septiembre 2008 - Berlin -> Tallin - Estonia
+Noviembre 2008 - Munich -> Berlin - Alemania
+Diciembre 2008 - Munich -> Madrid - España
+Febrero 2009 - Munich -> Düsseldorf - Alemania
+Marzo 2009 - Munich -> Madrid - España
+Julio 2009 - Munich -> Madrid - España
+Septiembre 2009 - Munich -> Amsterdam - Holanda
+Octubre 2009 - Munich -> Pekín - China
+Octubre 2009 - Munich -> Madrid - España
+Diciembre 2009 - Munich -> Derry - Reino Unido
+Diciembre 2009 - Munich -> Sofia - Bulgaria
+Enero 2010 - Munich -> Madrid - España
+Enero 2010 - Berlin -> Valladolid - España
+Septiembre 2010 - Berlin ->Praga - República Checa
+Octubre 2010 - Berlin -> Valladolid - España
+Diciembre 2010 - Berlin -> Madrid - España
+Marzo 2011 - Berlin -> Madrid - España
+Junio 2011 - Berlin -> Madrid - España
+Julio 2011 - Berlin -> Munich - Alemania
+Septiembre 2011 - Berlin -> Londres - Reino Unido
+Octubre 2011 - Berlin -> Madrid - España
+Diciembre 2011 - Berlin -> Madrid - España
+Febrero 2012 - Leipzig -> Barcelona - España
+Abril 2012 - Berlin -> Bruselas - Bélgica
+Junio 2012 - Leipzig -> Valladolid - España
+Septiembre 2012 - Leipzig -> Barcelona - España
+Octubre 2012 - Berlin -> Atenas - Grecia
+Diciembre 2012 - Leipzig -> Madrid - España
+Mayo 2013 - Leipzig -> Trapani - Italia
+Junio 2013 - Berlin -> Zúrich - Suiza
+Agosto 2013 - Berlin -> Madrid - España
+Agosto 2013 - Praga - Tashkent - Uzbekistán
+Septiembre 2013 - Berlin -> Madrid - España
+Diciembre 2013 - Berlin -> Madrid - España
+Abril 2014 - Leipzig -> Nueva York - Estados Unidos
+Mayo 2014 - Leipzig -> Milán - Italia
+Mayo 2014 - Leipzig -> Madrid - España
+Mayo 2014 - Leipzig -> París - Francia
+Octubre 2014 - Leipzig -> Londres - Reino Unido
+Diciembre 2014 - Leipzig -> Madrid - España
+Febrero 2015 - Leipzig -> Estambul - Turquía
+Marzo 2015 - Leipzig - México DF - México
+Mayo 2015 - Leipzig -> Madrid - España
+Mayo 2015 - Leipzig -> Barcelona - España
+Agosto 2015 - Berlin -> Madrid - España
+Diciembre 2015 - Berlin -> Madrid - España
+Marzo 2016 - Berlin -> Casablanca - Marruecos
+Mayo 2016 - Berlin -> Madrid - España
+Julio 2016 - Berlin -> Bratislava - Eslovaquia
+Septiembre 2016 - Berlin -> Tel Aviv - Israel
+Diciembre 2016 - Berlin -> Madrid - España
+Marzo 2017 - Berlin -> Barcelona - España
+Abril 2017 - Berlin -> Toronto - Canadá
+Abril 2017 - Berlin -> La Habana - Cuba
+
+Países / Colores
+
+España - #FFFFFF
+Alemania - #e5ed00
+Italia - #11cdab
+Suecia - #b99b3a
+Islandia - #35964e
+Rusia - #434aeb
+Noruega - #434374
+Egipto - #8563c8
+Hugría - #008022
+Dinamarca - #47be1b
+Polonia - #79fa22
+Holanda - #fa56b6
+Estonia - #d93dbd
+China - #d642c2
+Reino Unido - #e94092
+Bulgaria - #c025e9
+República Checa - #5d2954
+Bélgica - #cefe71
+Grecia - #1e7779
+Suiza - #87b3ea
+Uzbekistán - #9644c9
+Estados Unidos - #97eb26
+Francia - #9c3d47
+Turquía - #f693a7
+México - #af1b75
+Marruecos - #699b02
+Eslovaquia - #a77e09
+Israel - #51ac58
+Canadá - #2bf4ba
+Cuba - #cb798e
+
+
+Variaciones posibles
+Asignar un tono o brillo determinado de un color a cada año y observar cómo esto afecta al color resultante. Quizá si el resultado de un color es más brillante en uno de los trayectos esto significa que durante ese año viajé más frecuentemente.
+Zona de los archivos adjuntos
+Que el color cambie también en función de los acompañantes que participan en el viaje. De esta manera otras personas pueden colaborar a la hora de crear la obra en evolución.
